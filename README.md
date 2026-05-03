@@ -131,24 +131,24 @@ Je gère une infra multi-cloud de **150+ containers Docker** en production, avec
 
 ## Projets notables
 
-| Repo | Description |
-|------|-------------|
-| [unflared](https://github.com/painteau/unflared) | Plugin Unraid pour Cloudflare Tunnel : déploiement natif sans Docker |
-| [whisper-flask](https://github.com/painteau/whisper-flask) | API Flask pour transcription audio via OpenAI Whisper |
-| [spotisync](https://github.com/painteau/spotisync) | Export playlists Spotify → CSV/JSON en CLI Python |
-| [SSHChic](https://github.com/painteau/SSHChic) | Générateur de clés SSH vanity : trouve des paires avec préfixe personnalisé |
-| [twins](https://github.com/painteau/twins) | Serveur Gemini léger et performant |
-| [portmapper](https://github.com/painteau/portmapper) | Script Bash de gestion de redirections de ports |
-| [wordpress](https://github.com/painteau/wordpress) | Image Docker WordPress avec WP-CLI pré-installé |
-| [nginx-fivem-proxy](https://github.com/painteau/nginx-fivem-proxy) | Reverse proxy Nginx optimisé pour serveurs FiveM |
-| [OrangeTVCleaner](https://github.com/painteau/OrangeTVCleaner) | Extension navigateur : masque les éléments parasites de l'UI Orange TV |
-| [instagram-scrapper](https://github.com/painteau/instagram-scrapper) | Scraper Instagram en Python |
-| [obscura-cdp](https://github.com/painteau/obscura-cdp) | Navigateur headless Rust léger exposé via CDP |
-| [WebPrint](https://github.com/painteau/WebPrint) | Impression web depuis le navigateur |
-| [Video-Tools](https://github.com/painteau/Video-Tools) | Collection de scripts pour traitement et conversion vidéo |
-| [ChocoPackages](https://github.com/painteau/ChocoPackages) | Packages Chocolatey custom |
-| [apt-server](https://github.com/painteau/apt-server) | Serveur APT auto-hébergé |
-| [GroCoin](https://github.com/painteau/GroCoin) | Tiny blockchain maison |
+| Repo | Techno | Description |
+|------|--------|-------------|
+| [unflared](https://github.com/painteau/unflared) | Bash · Unraid | Plugin Unraid pour Cloudflare Tunnel : déploiement natif sans Docker |
+| [whisper-flask](https://github.com/painteau/whisper-flask) | Python · Flask | API Flask pour transcription audio via OpenAI Whisper |
+| [spotisync](https://github.com/painteau/spotisync) | Python | Export playlists Spotify → CSV/JSON en CLI Python |
+| [SSHChic](https://github.com/painteau/SSHChic) | Go | Générateur de clés SSH vanity : trouve des paires avec préfixe personnalisé |
+| [twins](https://github.com/painteau/twins) | Go | Serveur Gemini léger et performant |
+| [portmapper](https://github.com/painteau/portmapper) | Bash | Script Bash de gestion de redirections de ports |
+| [wordpress](https://github.com/painteau/wordpress) | Docker | Image Docker WordPress avec WP-CLI pré-installé |
+| [nginx-fivem-proxy](https://github.com/painteau/nginx-fivem-proxy) | Nginx | Reverse proxy Nginx optimisé pour serveurs FiveM |
+| [OrangeTVCleaner](https://github.com/painteau/OrangeTVCleaner) | JavaScript | Extension navigateur : masque les éléments parasites de l'UI Orange TV |
+| [instagram-scrapper](https://github.com/painteau/instagram-scrapper) | Python | Scraper Instagram en Python |
+| [obscura-cdp](https://github.com/painteau/obscura-cdp) | Rust | Navigateur headless Rust léger exposé via CDP |
+| [WebPrint](https://github.com/painteau/WebPrint) | JavaScript | Impression web depuis le navigateur |
+| [Video-Tools](https://github.com/painteau/Video-Tools) | Bash · PowerShell | Collection de scripts pour traitement et conversion vidéo |
+| [ChocoPackages](https://github.com/painteau/ChocoPackages) | PowerShell | Packages Chocolatey custom |
+| [apt-server](https://github.com/painteau/apt-server) | Bash | Serveur APT auto-hébergé |
+| [GroCoin](https://github.com/painteau/GroCoin) | Go | Tiny blockchain maison |
 
 ---
 
