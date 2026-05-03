@@ -14,7 +14,7 @@ Administrateur systèmes & réseaux avec **20+ ans** d'expérience, spécialisé
 Je gère une infra multi-cloud de **150+ containers Docker** en production, avec une spécialité rare : **audiovisuel broadcast live**.
 
 - 🖥️ **Infra bare-metal & virtuelle** : Linux (Debian/Ubuntu/RedHat), Windows Server, AD/Entra ID, Proxmox, KVM, VMware, Hyper-V
-- ☁️ **Multi-cloud** : Oracle Cloud · Azure (IAM, AKS, Entra ID) · AWS (EC2, S3, VPC) — hybride & on-premise
+- ☁️ **Multi-cloud** : Oracle Cloud · Azure (IAM, AKS, Entra ID) · AWS (EC2, S3, VPC), hybride & on-premise
 - 🐳 **DevOps** : 150+ containers Docker en prod, Kubernetes/AKS, Ansible, GitHub Actions, GitLab CI, Terraform
 - 🔐 **Cybersécurité** : RSSI référent, Zero Trust, SIEM Wazuh/Sentinel/ELK, IAM/PAM/MFA/RBAC, RGPD, Blue Team, N1/N2/N3
 - 📡 **Réseau** : Cloudflare WAF/Tunnel/Access, WireGuard, Tailscale, Nginx, Traefik, pfSense, Ubiquiti, SSH bastion
