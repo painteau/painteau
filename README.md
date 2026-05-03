@@ -56,7 +56,7 @@ Je gère une infra multi-cloud de **150+ containers Docker** en production, avec
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Semaphore](https://img.shields.io/badge/Semaphore-1B1F23?style=flat-square&logoColor=white)
+![Semaphore](https://img.shields.io/badge/Semaphore-1B1F23?style=flat-square&logo=semaphoreci&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Sécurité**
@@ -88,14 +88,14 @@ Je gère une infra multi-cloud de **150+ containers Docker** en production, avec
 ![Alloy](https://img.shields.io/badge/Alloy-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-5CDD8B?style=flat-square&logo=uptimekuma&logoColor=black)
-![Plausible](https://img.shields.io/badge/Plausible-5850EC?style=flat-square&logo=plausible&logoColor=white)
+![Plausible](https://img.shields.io/badge/Plausible-5850EC?style=flat-square&logo=plausibleanalytics&logoColor=white)
 
 **IA & LLM**
 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Open WebUI](https://img.shields.io/badge/Open_WebUI-000000?style=flat-square&logo=ollama&logoColor=white)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-412991?style=flat-square&logo=openai&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-412991?style=flat-square)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square)
 ![Crawl4AI](https://img.shields.io/badge/Crawl4AI-4B8BBE?style=flat-square&logo=python&logoColor=white)
 
 **Bases de données**
