@@ -10,7 +10,7 @@
 
 ## À propos
 
-Administrateur systèmes & réseaux avec **10+ ans** d'expérience, spécialisé en cybersécurité et infrastructure cloud.  
+Administrateur systèmes & réseaux avec **20+ ans** d'expérience, spécialisé en cybersécurité et infrastructure cloud.  
 Je gère une infra multi-cloud de ~50 containers Docker en production, avec une spécialité rare : **audiovisuel broadcast live**.
 
 - 🔐 **RSSI référent** : Zero Trust, SIEM Wazuh, hardening Linux/Windows, Blue Team
