@@ -1,8 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Sysadmin+%2F+DevOps+%2F+Cybersécurité;50%2B+containers+en+prod+%F0%9F%90%B3;Zero+Trust+%7C+SIEM+%7C+Hardening+%F0%9F%94%90;Expert+Audiovisuel+%26+Broadcast+%F0%9F%8E%AC" alt="Typing SVG" />
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thierryoliveira/)
 [![Blog](https://img.shields.io/badge/painteau.com-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://painteau.com)
