@@ -32,8 +32,8 @@ Je gère une infra multi-cloud de **150+ containers Docker** en production, avec
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![KVM](https://img.shields.io/badge/KVM-333333?style=flat-square&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-333333?style=flat-square&logo=linux&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=broadcom&logoColor=white)
 ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Unraid](https://img.shields.io/badge/Unraid-F15A2C?style=flat-square&logo=unraid&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)
@@ -44,8 +44,8 @@ Je gère une infra multi-cloud de **150+ containers Docker** en production, avec
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white&logoWidth=20)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white)
 ![Watchtower](https://img.shields.io/badge/Watchtower-1A1A2E?style=flat-square&logo=watchtower&logoColor=white)
 
@@ -62,8 +62,8 @@ Je gère une infra multi-cloud de **150+ containers Docker** en production, avec
 **Sécurité**
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh_SIEM-005BBB?style=flat-square&logo=wazuh&logoColor=white)
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh_SIEM-005BBB?style=flat-square&logo=elastic&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![CrowdSec](https://img.shields.io/badge/CrowdSec-3A7BD5?style=flat-square&logo=crowdsec&logoColor=white)
 ![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC?style=flat-square&logo=bitwarden&logoColor=white)
 ![Infisical](https://img.shields.io/badge/Infisical-EF6C33?style=flat-square&logo=vault&logoColor=white)
