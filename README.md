@@ -16,11 +16,11 @@
 Administrateur systèmes & réseaux avec **10+ ans** d'expérience, spécialisé en cybersécurité et infrastructure cloud.  
 Je gère une infra multi-cloud de ~50 containers Docker en production, avec une spécialité rare : **audiovisuel broadcast live**.
 
-- 🔐 **RSSI référent** — Zero Trust, SIEM Wazuh, hardening Linux/Windows, Blue Team
-- ☁️ **Multi-cloud** — Oracle Cloud · Azure · AWS
-- 🐳 **DevOps** — Docker, Kubernetes, Ansible, GitHub Actions, CI/CD
-- 📡 **Réseau** — Tailscale, WireGuard, Cloudflare WAF/Tunnel, Nginx
-- 🎬 **Broadcast expert** — vMix, Tricaster, ATEM, réseau DANTE, régie live
+- 🔐 **RSSI référent** : Zero Trust, SIEM Wazuh, hardening Linux/Windows, Blue Team
+- ☁️ **Multi-cloud** : Oracle Cloud · Azure · AWS
+- 🐳 **DevOps** : Docker, Kubernetes, Ansible, GitHub Actions, CI/CD
+- 📡 **Réseau** : Tailscale, WireGuard, Cloudflare WAF/Tunnel, Nginx
+- 🎬 **Broadcast expert** : vMix, Tricaster, ATEM, réseau DANTE, régie live
 
 ---
 
@@ -68,29 +68,20 @@ Je gère une infra multi-cloud de ~50 containers Docker en production, avec une 
 
 | Repo | Description |
 |------|-------------|
-| [unflared](https://github.com/painteau/unflared) | Plugin Unraid pour Cloudflare Tunnel — déploiement natif sans Docker |
-| [nginx-fivem-proxy](https://github.com/painteau/nginx-fivem-proxy) | Reverse proxy Nginx optimisé pour serveurs FiveM |
+| [unflared](https://github.com/painteau/unflared) | Plugin Unraid pour Cloudflare Tunnel : déploiement natif sans Docker |
 | [whisper-flask](https://github.com/painteau/whisper-flask) | API Flask pour transcription audio via OpenAI Whisper |
 | [spotisync](https://github.com/painteau/spotisync) | Export playlists Spotify → CSV/JSON en CLI Python |
-| [SSHChic](https://github.com/painteau/SSHChic) | Générateur de clés SSH vanity — trouve des paires avec préfixe personnalisé |
+| [SSHChic](https://github.com/painteau/SSHChic) | Générateur de clés SSH vanity : trouve des paires avec préfixe personnalisé |
 | [twins](https://github.com/painteau/twins) | Serveur Gemini léger et performant |
-| [dns-list](https://github.com/painteau/dns-list) | Compilation whitelist/blacklist DNS pour serveurs AdGuard/Pi-hole |
-| [OrangeTVCleaner](https://github.com/painteau/OrangeTVCleaner) | Extension navigateur — masque les éléments parasites de l'UI Orange TV |
-
----
-
-## Stats GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=painteau&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=painteau&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
-
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=painteau&theme=tokyonight&hide_border=true" height="150"/>
-</div>
+| [dns-list](https://github.com/painteau/dns-list) | Compilation whitelist/blacklist DNS pour AdGuard/Pi-hole |
+| [portmapper](https://github.com/painteau/portmapper) | Script Bash de gestion de redirections de ports |
+| [wordpress](https://github.com/painteau/wordpress) | Image Docker WordPress avec WP-CLI pré-installé |
+| [wp2gemini](https://github.com/painteau/wp2gemini) | Outil Dockerisé : extrait les posts WordPress et les publie en Gemini |
+| [nginx-fivem-proxy](https://github.com/painteau/nginx-fivem-proxy) | Reverse proxy Nginx optimisé pour serveurs FiveM |
+| [OrangeTVCleaner](https://github.com/painteau/OrangeTVCleaner) | Extension navigateur : masque les éléments parasites de l'UI Orange TV |
+| [NewTabChanger](https://github.com/painteau/NewTabChanger) | Extension Chrome : personnalise le nouvel onglet |
+| [claude-code-statusline](https://github.com/painteau/claude-code-statusline) | Status line Gruvbox Dark pour Claude Code |
+| [kiosk](https://github.com/painteau/kiosk) | Setup Raspberry Pi en mode kiosk |
 
 ---
 
