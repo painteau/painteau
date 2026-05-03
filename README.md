@@ -124,15 +124,17 @@ Je gère une infra multi-cloud de ~50 containers Docker en production, avec une 
 | [spotisync](https://github.com/painteau/spotisync) | Export playlists Spotify → CSV/JSON en CLI Python |
 | [SSHChic](https://github.com/painteau/SSHChic) | Générateur de clés SSH vanity : trouve des paires avec préfixe personnalisé |
 | [twins](https://github.com/painteau/twins) | Serveur Gemini léger et performant |
-| [dns-list](https://github.com/painteau/dns-list) | Compilation whitelist/blacklist DNS pour AdGuard/Pi-hole |
 | [portmapper](https://github.com/painteau/portmapper) | Script Bash de gestion de redirections de ports |
 | [wordpress](https://github.com/painteau/wordpress) | Image Docker WordPress avec WP-CLI pré-installé |
-| [wp2gemini](https://github.com/painteau/wp2gemini) | Outil Dockerisé : extrait les posts WordPress et les publie en Gemini |
 | [nginx-fivem-proxy](https://github.com/painteau/nginx-fivem-proxy) | Reverse proxy Nginx optimisé pour serveurs FiveM |
 | [OrangeTVCleaner](https://github.com/painteau/OrangeTVCleaner) | Extension navigateur : masque les éléments parasites de l'UI Orange TV |
-| [NewTabChanger](https://github.com/painteau/NewTabChanger) | Extension Chrome : personnalise le nouvel onglet |
-| [claude-code-statusline](https://github.com/painteau/claude-code-statusline) | Status line Gruvbox Dark pour Claude Code |
-| [kiosk](https://github.com/painteau/kiosk) | Setup Raspberry Pi en mode kiosk |
+| [instagram-scrapper](https://github.com/painteau/instagram-scrapper) | Scraper Instagram en Python |
+| [obscura-cdp](https://github.com/painteau/obscura-cdp) | Navigateur headless Rust léger exposé via CDP |
+| [WebPrint](https://github.com/painteau/WebPrint) | Impression web depuis le navigateur |
+| [Video-Tools](https://github.com/painteau/Video-Tools) | Collection de scripts pour traitement et conversion vidéo |
+| [ChocoPackages](https://github.com/painteau/ChocoPackages) | Packages Chocolatey custom |
+| [apt-server](https://github.com/painteau/apt-server) | Serveur APT auto-hébergé |
+| [GroCoin](https://github.com/painteau/GroCoin) | Tiny blockchain maison |
 
 ---
 
