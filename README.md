@@ -63,8 +63,8 @@ Je gère une infra multi-cloud de **150+ containers Docker** en production, avec
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh_SIEM-005BBB?style=flat-square&logo=elastic&logoColor=white)
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![CrowdSec](https://img.shields.io/badge/CrowdSec-3A7BD5?style=flat-square&logo=crowdsec&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square)
+![CrowdSec](https://img.shields.io/badge/CrowdSec-3A7BD5?style=flat-square)
 ![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC?style=flat-square&logo=bitwarden&logoColor=white)
 ![Infisical](https://img.shields.io/badge/Infisical-EF6C33?style=flat-square&logo=vault&logoColor=white)
 ![Fail2ban](https://img.shields.io/badge/Fail2ban-CC0000?style=flat-square&logoColor=white)
