@@ -17,7 +17,7 @@ Administrateur systèmes & réseaux avec **10+ ans** d'expérience, spécialisé
 Je gère une infra multi-cloud de ~50 containers Docker en production, avec une spécialité rare : **audiovisuel broadcast live**.
 
 - 🔐 **RSSI référent** — Zero Trust, SIEM Wazuh, hardening Linux/Windows, Blue Team
-- ☁️ **Multi-cloud** — Oracle Cloud · Azure (AZ-500, SC-300) · AWS
+- ☁️ **Multi-cloud** — Oracle Cloud · Azure · AWS
 - 🐳 **DevOps** — Docker, Kubernetes, Ansible, GitHub Actions, CI/CD
 - 📡 **Réseau** — Tailscale, WireGuard, Cloudflare WAF/Tunnel, Nginx
 - 🎬 **Broadcast expert** — vMix, Tricaster, ATEM, réseau DANTE, régie live
