@@ -47,7 +47,7 @@ Je gère une infra multi-cloud de **150+ containers Docker** en production, avec
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white)
-![Watchtower](https://img.shields.io/badge/Watchtower-1A1A2E?style=flat-square&logoColor=white)
+![Watchtower](https://img.shields.io/badge/Watchtower-1A1A2E?style=flat-square&logo=watchtower&logoColor=white)
 
 **DevOps & Automatisation**
 
@@ -66,7 +66,7 @@ Je gère une infra multi-cloud de **150+ containers Docker** en production, avec
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![CrowdSec](https://img.shields.io/badge/CrowdSec-3A7BD5?style=flat-square&logo=crowdsec&logoColor=white)
 ![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC?style=flat-square&logo=bitwarden&logoColor=white)
-![Infisical](https://img.shields.io/badge/Infisical-EF6C33?style=flat-square&logoColor=white)
+![Infisical](https://img.shields.io/badge/Infisical-EF6C33?style=flat-square&logo=vault&logoColor=white)
 ![Fail2ban](https://img.shields.io/badge/Fail2ban-CC0000?style=flat-square&logoColor=white)
 ![Endlessh](https://img.shields.io/badge/Endlessh-333333?style=flat-square&logoColor=white)
 
@@ -93,10 +93,10 @@ Je gère une infra multi-cloud de **150+ containers Docker** en production, avec
 **IA & LLM**
 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Open WebUI](https://img.shields.io/badge/Open_WebUI-000000?style=flat-square&logoColor=white)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-412991?style=flat-square&logoColor=white)
+![Open WebUI](https://img.shields.io/badge/Open_WebUI-000000?style=flat-square&logo=ollama&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-412991?style=flat-square&logo=openai&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
-![Crawl4AI](https://img.shields.io/badge/Crawl4AI-4B8BBE?style=flat-square&logoColor=white)
+![Crawl4AI](https://img.shields.io/badge/Crawl4AI-4B8BBE?style=flat-square&logo=python&logoColor=white)
 
 **Bases de données**
 
@@ -114,7 +114,7 @@ Je gère une infra multi-cloud de **150+ containers Docker** en production, avec
 ![Tricaster](https://img.shields.io/badge/Tricaster-009CDE?style=flat-square&logoColor=white)
 ![Blackmagic ATEM](https://img.shields.io/badge/Blackmagic_ATEM-1A1A1A?style=flat-square&logo=blackmagicdesign&logoColor=white)
 ![OBS](https://img.shields.io/badge/OBS-302E31?style=flat-square&logo=obsstudio&logoColor=white)
-![NDI](https://img.shields.io/badge/NDI-F24B00?style=flat-square&logoColor=white)
+![NDI](https://img.shields.io/badge/NDI-F24B00?style=flat-square&logo=ndi&logoColor=white)
 ![DANTE](https://img.shields.io/badge/DANTE-003087?style=flat-square&logoColor=white)
 ![Restreamer](https://img.shields.io/badge/Restreamer-E4002B?style=flat-square&logoColor=white)
 
