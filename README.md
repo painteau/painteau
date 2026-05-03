@@ -11,7 +11,7 @@
 ## À propos
 
 Administrateur systèmes & réseaux avec **20+ ans** d'expérience, spécialisé en cybersécurité et infrastructure cloud.  
-Je gère une infra multi-cloud de ~50 containers Docker en production, avec une spécialité rare : **audiovisuel broadcast live**.
+Je gère une infra multi-cloud de **150+ containers Docker** en production, avec une spécialité rare : **audiovisuel broadcast live**.
 
 - 🖥️ **Infra bare-metal & virtuelle** : Linux (Debian/Ubuntu/RedHat), Windows Server, AD/Entra ID, Proxmox, KVM, VMware, Hyper-V
 - ☁️ **Multi-cloud** : Oracle Cloud · Azure (IAM, AKS, Entra ID) · AWS (EC2, S3, VPC) — hybride & on-premise
@@ -32,8 +32,11 @@ Je gère une infra multi-cloud de ~50 containers Docker en production, avec une 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-333333?style=flat-square&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Unraid](https://img.shields.io/badge/Unraid-F15A2C?style=flat-square&logo=unraid&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
 **Cloud & Containers**
@@ -75,6 +78,7 @@ Je gère une infra multi-cloud de ~50 containers Docker en production, avec une 
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
 ![AdGuard](https://img.shields.io/badge/AdGuard-68BC71?style=flat-square&logo=adguard&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
+![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=flat-square&logo=ubiquiti&logoColor=white)
 
 **Monitoring & Observabilité**
 
@@ -103,6 +107,16 @@ Je gère une infra multi-cloud de ~50 containers Docker en production, avec une 
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Meilisearch](https://img.shields.io/badge/Meilisearch-FF5CAA?style=flat-square&logo=meilisearch&logoColor=white)
+
+**Broadcast & Audiovisuel**
+
+![vMix](https://img.shields.io/badge/vMix-E4002B?style=flat-square&logoColor=white)
+![Tricaster](https://img.shields.io/badge/Tricaster-009CDE?style=flat-square&logoColor=white)
+![Blackmagic ATEM](https://img.shields.io/badge/Blackmagic_ATEM-1A1A1A?style=flat-square&logo=blackmagicdesign&logoColor=white)
+![OBS](https://img.shields.io/badge/OBS-302E31?style=flat-square&logo=obsstudio&logoColor=white)
+![NDI](https://img.shields.io/badge/NDI-F24B00?style=flat-square&logoColor=white)
+![DANTE](https://img.shields.io/badge/DANTE-003087?style=flat-square&logoColor=white)
+![Restreamer](https://img.shields.io/badge/Restreamer-E4002B?style=flat-square&logoColor=white)
 
 **Langages**
 
