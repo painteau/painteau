@@ -30,14 +30,14 @@ Je gère une infra multi-cloud de **150+ containers Docker** en production, avec
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows11&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![KVM](https://img.shields.io/badge/KVM-333333?style=flat-square&logo=linux&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=broadcom&logoColor=white)
-![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=windows11&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Unraid](https://img.shields.io/badge/Unraid-F15A2C?style=flat-square&logo=unraid&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=windows11&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 **Cloud & Containers**
 
