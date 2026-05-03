@@ -18,7 +18,7 @@ Je gère une infra multi-cloud de **150+ containers Docker** en production, avec
 - 🐳 **DevOps** : 150+ containers Docker en prod, Kubernetes/AKS, Ansible, GitHub Actions, GitLab CI, Terraform
 - 🔐 **Cybersécurité** : RSSI référent, Zero Trust, SIEM Wazuh/Sentinel/ELK, IAM/PAM/MFA/RBAC, RGPD, Blue Team, N1/N2/N3
 - 📡 **Réseau** : Cloudflare WAF/Tunnel/Access, WireGuard, Tailscale, Nginx, Traefik, pfSense, Ubiquiti, SSH bastion
-- 🤖 **IA self-hosted** : Ollama, Open WebUI, LiteLLM, Whisper, n8n — stack locale souveraine
+- 🤖 **IA self-hosted** : Ollama, Open WebUI, LiteLLM, Whisper — stack locale souveraine
 - 🎬 **Broadcast & audiovisuel** : vMix, Tricaster, ATEM, réseau DANTE/AES, NDI, régie live multi-caméras
 
 ---
