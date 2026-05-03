@@ -1,1 +1,99 @@
-PGRpdiBhbGlnbj0iY2VudGVyIj4KCjxpbWcgc3JjPSJodHRwczovL3JlYWRtZS10eXBpbmctc3ZnLmRlbW9sYWIuY29tP2ZvbnQ9RmlyYStDb2RlJndlaWdodD02MDAmc2l6ZT0yNiZwYXVzZT0xMDAwJmNvbG9yPTU4QTZGRiZjZW50ZXI9dHJ1ZSZ2Q2VudGVyPXRydWUmd2lkdGg9NjIwJmxpbmVzPVN5c2FkbWluKyUyRitEZXZPcHMrJTJGK0N5YmVyc8OpY3VyaXTDqTs1MCUyQitjb250YWluZXJzK2VuK3Byb2QrJUYwJTlGJTkwJUIzO1plcm8rVHJ1c3QrJTdDK1NJRU0rJTdDK0hhcmRlbmluZyslRjAlOUYlOTQlOTA7RXhwZXJ0K0F1ZGlvdmlzdWVsKyUyNitCcm9hZGNhc3QrJUYwJTlGJThFJUFDIiBhbHQ9IlR5cGluZyBTVkciIC8+Cgo8YnIvPgoKWyFbTGlua2VkSW5dKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTGlua2VkSW4tMEE2NkMyP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1saW5rZWRpbiZsb2dvQ29sb3I9d2hpdGUpXShodHRwczovL2xpbmtlZGluLmNvbS9pbi90aGllcnJ5LW9saXZlaXJhKQpbIVtCbG9nXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL3BhaW50ZWF1LmNvbS1GRjU3MjI/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXJzcyZsb2dvQ29sb3I9d2hpdGUpXShodHRwczovL3BhaW50ZWF1LmNvbSkKCjwvZGl2PgoKLS0tCgojIyDDgCBwcm9wb3MKCkFkbWluaXN0cmF0ZXVyIHN5c3TDqG1lcyAmIHLDqXNlYXV4IGF2ZWMgKioxMCsgYW5zKiogZCdleHDDqXJpZW5jZSwgc3DDqWNpYWxpc8OpIGVuIGN5YmVyc8OpY3VyaXTDqSBldCBpbmZyYXN0cnVjdHVyZSBjbG91ZC4gIApKZSBnw6hyZSB1bmUgaW5mcmEgbXVsdGktY2xvdWQgZGUgfjUwIGNvbnRhaW5lcnMgRG9ja2VyIGVuIHByb2R1Y3Rpb24sIGF2ZWMgdW5lIHNww6ljaWFsaXTDqSByYXJlIDogKiphdWRpb3Zpc3VlbCBicm9hZGNhc3QgbGl2ZSoqLgoKLSDwn5SQICoqUlNTSSByw6lmw6lyZW50Kiog4oCUIFplcm8gVHJ1c3QsIFNJRU0gV2F6dWgsIGhhcmRlbmluZyBMaW51eC9XaW5kb3dzLCBCbHVlIFRlYW0KLSDimIHvuI8gKipNdWx0aS1jbG91ZCoqIOKAlCBPcmFjbGUgQ2xvdWQgwrcgQXp1cmUgKEFaLTUwMCwgU0MtMzAwKSDCtyBBV1MKLSDwn5CzICoqRGV2T3BzKiog4oCUIERvY2tlciwgS3ViZXJuZXRlcywgQW5zaWJsZSwgR2l0SHViIEFjdGlvbnMsIENJL0NECi0g8J+ToSAqKlLDqXNlYXUqKiDigJQgVGFpbHNjYWxlLCBXaXJlR3VhcmQsIENsb3VkZmxhcmUgV0FGL1R1bm5lbCwgTmdpbngKLSDwn46sICoqQnJvYWRjYXN0IGV4cGVydCoqIOKAlCB2TWl4LCBUcmljYXN0ZXIsIEFURU0sIHLDqXNlYXUgREFOVEUsIHLDqWdpZSBsaXZlCgotLS0KCiMjIFN0YWNrCgoqKkluZnJhICYgT1MqKgoKIVtMaW51eF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9MaW51eC1GQ0M2MjQ/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz1saW51eCZsb2dvQ29sb3I9YmxhY2spCiFbRGViaWFuXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0RlYmlhbi1BODFEMzM/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz1kZWJpYW4mbG9nb0NvbG9yPXdoaXRlKQohW1VidW50dV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9VYnVudHUtRTk1NDIwP3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289dWJ1bnR1JmxvZ29Db2xvcj13aGl0ZSkKIVtXaW5kb3dzIFNlcnZlcl0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9XaW5kb3dzX1NlcnZlci0wMDc4RDQ/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz13aW5kb3dzJmxvZ29Db2xvcj13aGl0ZSkKCioqQ2xvdWQgJiBDb250YWluZXJzKioKCiFbRG9ja2VyXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0RvY2tlci0yNDk2RUQ/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz1kb2NrZXImbG9nb0NvbG9yPXdoaXRlKQohW0t1YmVybmV0ZXNdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvS3ViZXJuZXRlcy0zMjZDRTU/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz1rdWJlcm5ldGVzJmxvZ29Db2xvcj13aGl0ZSkKIVtBenVyZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9BenVyZS0wMDc4RDQ/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz1taWNyb3NvZnRhenVyZSZsb2dvQ29sb3I9d2hpdGUpCiFbQVdTXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0FXUy0yMzJGM0U/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz1hbWF6b25hd3MmbG9nb0NvbG9yPXdoaXRlKQohW09yYWNsZSBDbG91ZF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9PcmFjbGVfQ2xvdWQtRjgwMDAwP3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289b3JhY2xlJmxvZ29Db2xvcj13aGl0ZSkKIVtBbnNpYmxlXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0Fuc2libGUtRUUwMDAwP3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289YW5zaWJsZSZsb2dvQ29sb3I9d2hpdGUpCgoqKlPDqWN1cml0w6kgJiBSw6lzZWF1KioKCiFbQ2xvdWRmbGFyZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9DbG91ZGZsYXJlLUYzODAyMD9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPWNsb3VkZmxhcmUmbG9nb0NvbG9yPXdoaXRlKQohW1dhenVoXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1dhenVoX1NJRU0tMDA1QkJCP3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289d2F6dWgmbG9nb0NvbG9yPXdoaXRlKQohW1RhaWxzY2FsZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9UYWlsc2NhbGUtMjQyNDI0P3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289dGFpbHNjYWxlJmxvZ29Db2xvcj13aGl0ZSkKIVtXaXJlR3VhcmRdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvV2lyZUd1YXJkLTg4MTcxQT9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPXdpcmVndWFyZCZsb2dvQ29sb3I9d2hpdGUpCiFbTmdpbnhdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTmdpbngtMDA5NjM5P3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289bmdpbngmbG9nb0NvbG9yPXdoaXRlKQoKKipNb25pdG9yaW5nKioKCiFbR3JhZmFuYV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9HcmFmYW5hLUY0NjgwMD9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPWdyYWZhbmEmbG9nb0NvbG9yPXdoaXRlKQohW1Byb21ldGhldXNdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUHJvbWV0aGV1cy1FNjUyMkM/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz1wcm9tZXRoZXVzJmxvZ29Db2xvcj13aGl0ZSkKIVtMb2tpXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0xva2ktRjVBNjIzP3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289Z3JhZmFuYSZsb2dvQ29sb3I9d2hpdGUpCgoqKkxhbmdhZ2VzKioKCiFbQmFzaF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9CYXNoLTRFQUEyNT9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPWdudWJhc2gmbG9nb0NvbG9yPXdoaXRlKQohW1B5dGhvbl0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9QeXRob24tMzc3NkFCP3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289cHl0aG9uJmxvZ29Db2xvcj13aGl0ZSkKIVtQb3dlclNoZWxsXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1Bvd2VyU2hlbGwtNTM5MUZFP3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289cG93ZXJzaGVsbCZsb2dvQ29sb3I9d2hpdGUpCgotLS0KCiMjIFByb2pldHMgbm90YWJsZXMKCnwgUmVwbyB8IERlc2NyaXB0aW9uIHwKfC0tLS0tLXwtLS0tLS0tLS0tLS0tfAp8IFt1bmZsYXJlZF0oaHR0cHM6Ly9naXRodWIuY29tL3BhaW50ZWF1L3VuZmxhcmVkKSB8IFBsdWdpbiBVbnJhaWQgcG91ciBDbG91ZGZsYXJlIFR1bm5lbCDigJQgZMOpcGxvaWVtZW50IG5hdGlmIHNhbnMgRG9ja2VyIHwKfCBbbmdpbngtZml2ZW0tcHJveHldKGh0dHBzOi8vZ2l0aHViLmNvbS9wYWludGVhdS9uZ2lueC1maXZlbS1wcm94eSkgfCBSZXZlcnNlIHByb3h5IE5naW54IG9wdGltaXPDqSBwb3VyIHNlcnZldXJzIEZpdmVNIHwKfCBbd2hpc3Blci1mbGFza10oaHR0cHM6Ly9naXRodWIuY29tL3BhaW50ZWF1L3doaXNwZXItZmxhc2spIHwgQVBJIEZsYXNrIHBvdXIgdHJhbnNjcmlwdGlvbiBhdWRpbyB2aWEgT3BlbkFJIFdoaXNwZXIgfAp8IFtzcG90aXN5bmNdKGh0dHBzOi8vZ2l0aHViLmNvbS9wYWludGVhdS9zcG90aXN5bmMpIHwgRXhwb3J0IHBsYXlsaXN0cyBTcG90aWZ5IOKGkiBDU1YvSlNPTiBlbiBDTEkgUHl0aG9uIHwKfCBbU1NIQ2hpY10oaHR0cHM6Ly9naXRodWIuY29tL3BhaW50ZWF1L1NTSENoaWMpIHwgR8OpbsOpcmF0ZXVyIGRlIGNsw6lzIFNTSCB2YW5pdHkg4oCUIHRyb3V2ZSBkZXMgcGFpcmVzIGF2ZWMgcHLDqWZpeGUgcGVyc29ubmFsaXPDqSB8CnwgW3R3aW5zXShodHRwczovL2dpdGh1Yi5jb20vcGFpbnRlYXUvdHdpbnMpIHwgU2VydmV1ciBHZW1pbmkgbMOpZ2VyIGV0IHBlcmZvcm1hbnQgfAp8IFtkbnMtbGlzdF0oaHR0cHM6Ly9naXRodWIuY29tL3BhaW50ZWF1L2Rucy1saXN0KSB8IENvbXBpbGF0aW9uIHdoaXRlbGlzdC9ibGFja2xpc3QgRE5TIHBvdXIgc2VydmV1cnMgQWRHdWFyZC9QaS1ob2xlIHwKfCBbT3JhbmdlVFZDbGVhbmVyXShodHRwczovL2dpdGh1Yi5jb20vcGFpbnRlYXUvT3JhbmdlVFZDbGVhbmVyKSB8IEV4dGVuc2lvbiBuYXZpZ2F0ZXVyIOKAlCBtYXNxdWUgbGVzIMOpbMOpbWVudHMgcGFyYXNpdGVzIGRlIGwnVUkgT3JhbmdlIFRWIHwKCi0tLQoKIyMgU3RhdHMgR2l0SHViCgo8ZGl2IGFsaWduPSJjZW50ZXIiPgoKPGltZyBzcmM9Imh0dHBzOi8vZ2l0aHViLXJlYWRtZS1zdGF0cy52ZXJjZWwuYXBwL2FwaT91c2VybmFtZT1wYWludGVhdSZzaG93X2ljb25zPXRydWUmdGhlbWU9dG9reW9uaWdodCZoaWRlX2JvcmRlcj10cnVlJmNvdW50X3ByaXZhdGU9dHJ1ZSIgaGVpZ2h0PSIxNjAiLz4KPGltZyBzcmM9Imh0dHBzOi8vZ2l0aHViLXJlYWRtZS1zdGF0cy52ZXJjZWwuYXBwL2FwaS90b3AtbGFuZ3MvP3VzZXJuYW1lPXBhaW50ZWF1JmxheW91dD1jb21wYWN0JnRoZW1lPXRva3lvbmlnaHQmaGlkZV9ib3JkZXI9dHJ1ZSZsYW5nc19jb3VudD02IiBoZWlnaHQ9IjE2MCIvPgoKPC9kaXY+Cgo8ZGl2IGFsaWduPSJjZW50ZXIiPgo8aW1nIHNyYz0iaHR0cHM6Ly9zdHJlYWstc3RhdHMuZGVtb2xhYi5jb20/dXNlcj1wYWludGVhdSZ0aGVtZT10b2t5b25pZ2h0JmhpZGVfYm9yZGVyPXRydWUiIGhlaWdodD0iMTUwIi8+CjwvZGl2PgoKLS0tCgo8ZGl2IGFsaWduPSJjZW50ZXIiPgo8c3ViPlNlbGYtaG9zdGVkIMK3IFplcm8gVHJ1c3QgwrcgT3BlbiBTb3VyY2UgcXVhbmQgw6dhIHBldXQgc2VydmlyPC9zdWI+CjwvZGl2Pgo=
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Sysadmin+%2F+DevOps+%2F+Cybersécurité;50%2B+containers+en+prod+%F0%9F%90%B3;Zero+Trust+%7C+SIEM+%7C+Hardening+%F0%9F%94%90;Expert+Audiovisuel+%26+Broadcast+%F0%9F%8E%AC" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thierry-oliveira)
+[![Blog](https://img.shields.io/badge/painteau.com-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://painteau.com)
+
+</div>
+
+---
+
+## À propos
+
+Administrateur systèmes & réseaux avec **10+ ans** d'expérience, spécialisé en cybersécurité et infrastructure cloud.  
+Je gère une infra multi-cloud de ~50 containers Docker en production, avec une spécialité rare : **audiovisuel broadcast live**.
+
+- 🔐 **RSSI référent** — Zero Trust, SIEM Wazuh, hardening Linux/Windows, Blue Team
+- ☁️ **Multi-cloud** — Oracle Cloud · Azure (AZ-500, SC-300) · AWS
+- 🐳 **DevOps** — Docker, Kubernetes, Ansible, GitHub Actions, CI/CD
+- 📡 **Réseau** — Tailscale, WireGuard, Cloudflare WAF/Tunnel, Nginx
+- 🎬 **Broadcast expert** — vMix, Tricaster, ATEM, réseau DANTE, régie live
+
+---
+
+## Stack
+
+**Infra & OS**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
+
+**Cloud & Containers**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+**Sécurité & Réseau**
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh_SIEM-005BBB?style=flat-square&logo=wazuh&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**Monitoring**
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F5A623?style=flat-square&logo=grafana&logoColor=white)
+
+**Langages**
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+---
+
+## Projets notables
+
+| Repo | Description |
+|------|-------------|
+| [unflared](https://github.com/painteau/unflared) | Plugin Unraid pour Cloudflare Tunnel — déploiement natif sans Docker |
+| [nginx-fivem-proxy](https://github.com/painteau/nginx-fivem-proxy) | Reverse proxy Nginx optimisé pour serveurs FiveM |
+| [whisper-flask](https://github.com/painteau/whisper-flask) | API Flask pour transcription audio via OpenAI Whisper |
+| [spotisync](https://github.com/painteau/spotisync) | Export playlists Spotify → CSV/JSON en CLI Python |
+| [SSHChic](https://github.com/painteau/SSHChic) | Générateur de clés SSH vanity — trouve des paires avec préfixe personnalisé |
+| [twins](https://github.com/painteau/twins) | Serveur Gemini léger et performant |
+| [dns-list](https://github.com/painteau/dns-list) | Compilation whitelist/blacklist DNS pour serveurs AdGuard/Pi-hole |
+| [OrangeTVCleaner](https://github.com/painteau/OrangeTVCleaner) | Extension navigateur — masque les éléments parasites de l'UI Orange TV |
+
+---
+
+## Stats GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=painteau&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=painteau&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
+
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=painteau&theme=tokyonight&hide_border=true" height="150"/>
+</div>
+
+---
+
+<div align="center">
+<sub>Self-hosted · Zero Trust · Open Source quand ça peut servir</sub>
+</div>
