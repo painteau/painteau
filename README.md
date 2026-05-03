@@ -2,7 +2,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thierryoliveira/)
-[![Blog](https://img.shields.io/badge/painteau.com-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://painteau.com)
+[![Blog](https://img.shields.io/badge/painteau.com-FF5722?style=for-the-badge&logo=wordpress&logoColor=white)](https://painteau.com)
 
 </div>
 
